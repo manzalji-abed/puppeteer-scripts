@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# Do not ignore this directory, so we can include the JS files
+!.gitignore
+
+# Include only JavaScript files
+!*.js
